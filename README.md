@@ -1,3 +1,5 @@
+> **Archived.** This image is now built from [`images/llamacpp`](https://github.com/omacom/omarchy-local-ai/tree/master/images/llamacpp) in [omacom/omarchy-local-ai](https://github.com/omacom/omarchy-local-ai) and published as `ghcr.io/omacom/omarchy-local-ai/…`. Images already published from here stay available.
+
 # llamacpp-image
 
 The container image [omarchy-local-ai](https://github.com/omacom/omarchy-local-ai) runs text models in on Intel GPUs: [llama.cpp](https://github.com/ggml-org/llama.cpp)'s `llama-server`, built with Vulkan, published as `ghcr.io/omacom/llamacpp`.
